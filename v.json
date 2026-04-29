@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "name": "Lilay",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/sa2024/index" }
+  ],
+  "trailingSlash": false
+}
