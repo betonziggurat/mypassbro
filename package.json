@@ -1,0 +1,7 @@
+{
+  "name": "Lilay",
+  "version": "1.0.0",
+  "description": "Serverless Vercel (Edge Runtime)",
+  "private": true,
+  "license": "MIT"
+}
